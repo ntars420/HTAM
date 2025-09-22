@@ -8,4 +8,4 @@ Assignments for the HTAM course
 5. We also found that the 3D scanner couldn’t clearly recognize the strap of the thermos, and it ended up generating multiple straps.
 6. Finally, we removed the strap and got a relatively good 3D model. However, the top and bottom that weren’t scanned were left open, turning it into an unsealed cavity, and we weren’t able to fix this problem.
 - Here is an image of our model
-![image name]([3D scanning image 1.jpg](https://github.com/ntars420/HTAM/blob/main/3D%20scanning%20image%201.jpg))
+![image name](https://github.com/ntars420/HTAM/blob/main/3D%20scanning%20image%201.jpg)
