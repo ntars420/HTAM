@@ -1,6 +1,6 @@
 # HTAM
 Assignments for the HTAM course
-# The record of the first week: The process of using a 3D scanner
+## The record of the first week: The process of using a 3D scanner
 1. We first tried using a 3D scanner, and the first problem we found was that it requires a LiDAR device, which not all phones or tablets have.
 2. After finding the right device, we scanned objects in our dorm room, but instead of getting a single object as we wanted, the scan captured the entire room.
 3. So we borrowed a 3D scanner from our teacher. At first, we scanned a pen, but since it was lying flat, it was hard to separate it from the tray.
