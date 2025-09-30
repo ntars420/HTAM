@@ -7,8 +7,11 @@ Assignments for the HTAM course
 4. Then we tried scanning a thermos cup, but it was too big, so we had to rotate the 3D scanner 90 degrees to capture it.
 5. We also found that the 3D scanner couldn’t clearly recognize the strap of the thermos, and it ended up generating multiple straps.
 6. Finally, we removed the strap and got a relatively good 3D model. However, the top and bottom that weren’t scanned were left open, turning it into an unsealed cavity, and we weren’t able to fix this problem.
-- Here is an image of our model
+![2ab9419bfa98c8ea8291c09657f1367e](https://github.com/user-attachments/assets/b7e9daaa-4467-40da-9681-785c7dd43ccc)
+
+- Here are some images of our model
 ![image name](https://github.com/ntars420/HTAM/blob/main/3D%20scanning%20image%201.jpg)
+![696e7ab6e45a7ab12dae536883b87676](https://github.com/user-attachments/assets/4883027d-293c-410b-98e1-6789bd0d0dee)
 
 ## Week2:3D printing
 1. Firstly, we processed the 3D model obtained through scanning using Autodesk meshmixer.
