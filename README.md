@@ -5,6 +5,7 @@ Assignments for the HTAM course
 2. After finding the right device, we scanned objects in our dorm room, but instead of getting a single object as we wanted, the scan captured the entire room.
 3. So we borrowed a 3D scanner from our teacher. At first, we scanned a pen, but since it was lying flat, it was hard to separate it from the tray.
 4. Then we tried scanning a thermos cup, but it was too big, so we had to rotate the 3D scanner 90 degrees to capture it.
+![638cc8ca1772eb9513280d6b9388dbcd](https://github.com/user-attachments/assets/8481127b-9606-4381-ba24-da291774328c)
 5. We also found that the 3D scanner couldn’t clearly recognize the strap of the thermos, and it ended up generating multiple straps.
 6. Finally, we removed the strap and got a relatively good 3D model. However, the top and bottom that weren’t scanned were left open, turning it into an unsealed cavity, and we weren’t able to fix this problem.
 ![2ab9419bfa98c8ea8291c09657f1367e](https://github.com/user-attachments/assets/b7e9daaa-4467-40da-9681-785c7dd43ccc)
